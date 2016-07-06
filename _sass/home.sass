@@ -1,0 +1,50 @@
+body
+  color: #111
+  background: #fff
+
+body
+  background: -webkit-linear-gradient(left, #19111f 0%, #2c1e37 100%)
+  background: -moz-linear-gradient(left, #19111f 0%, #2c1e37 100%)
+  background: -o-linear-gradient(left, #19111f 0%, #2c1e37 100%)
+  background: -ms-linear-gradient(left, #19111f 0%, #2c1e37 100%)
+  background: linear-gradient(to right, #19111f 0%, #2c1e37 100%)
+  color: $beta
+  font-family: $font
+  font-size: 14px
+  margin: 50px 100px 0
+
+  @media #{$below}
+    margin: 50px 50px 0
+
+a
+  color: $alpha
+  text-decoration: none
+  font-size: 1em
+  -webkit-transition: all 1s
+  -moz-transition: all 1s
+  -o-transition: all 1s
+  -ms-transition: all 1s
+  transition: all 1s
+
+  &:hover
+    color: $gama
+    border-color: $gama
+
+p,
+span
+  line-height: 1.5
+
+h1
+  font-size: 2em
+  margin-bottom: 30px
+
+strong
+  font-weight: bold
+
+  a
+    border: none
+
+ul
+  list-style: none
+  margin: 0
+  padding: 0

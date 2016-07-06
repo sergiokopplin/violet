@@ -1,0 +1,30 @@
+# main text of home
+name: Jane Doe
+bio: A Girl who travels the world eating noodles
+
+# twitter summary info
+description: A blog about technology and stuff related
+
+picture: assets/images/picture.jpg
+
+url: http://koppl.in/violet
+# your url: http://USERNAME.github.io
+
+markdown: kramdown
+highlighter: rouge
+
+# if you don't have any of social below, comment the line
+facebook: myfacebook
+twitter: mytwitter
+github: mygithub
+email: me@jane.doe
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh, tasks]
