@@ -30,14 +30,13 @@
 
 - [Jekyll](https://jekyllrb.com/), [Gulp](http://gulpjs.com/), [BrowserSync](https://www.browsersync.io/) and [Sass](http://sass-lang.com/)
 - Tests with [Travis](https://travis-ci.org/)
-- Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
 - No JS. :sunglasses:
 
 ## Setup
 
 0. :star: to the project. :metal:
 1. [Install Jekyll](http://jekyllrb.com), [NodeJS](https://nodejs.org/) and [Bundler](http://bundler.io/).
-2. Fork the project [Indigo](https://github.com/sergiokopplin/violet/fork)
+2. Fork the project [Violet](https://github.com/sergiokopplin/violet/fork)
 3. Edit `_config.yml` with your data.
 4. `bundle install`
 5. `npm i && npm i -g gulp`
