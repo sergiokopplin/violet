@@ -28,7 +28,7 @@
 
 ## What has inside?
 
-- [Jekyll](https://jekyllrb.com/), [Gulp](http://gulpjs.com/), [BrowserSync](https://www.browsersync.io/) and [Sass](http://sass-lang.com/)
+- [Jekyll](https://jekyllrb.com/) and [Sass](http://sass-lang.com/)
 - Tests with [Travis](https://travis-ci.org/)
 - No JS. :sunglasses:
 
@@ -39,9 +39,8 @@
 2. Fork the project [Violet](https://github.com/sergiokopplin/violet/fork)
 3. Edit `_config.yml` with your data.
 4. `bundle install`
-5. `npm i && npm i -g gulp`
-6. `gulp`
-7. open in your browser: `http://localhost:3000`
+5. `bundle exec jekyll serve`
+6. open in your browser: `http://localhost:3000`
 
 ## Settings
 
@@ -60,8 +59,6 @@ and lot of other options.
 You can test your app with:
 
 ```bash
-npm run test
-# or
 bundle exec htmlproof ./_site
 ````
 
