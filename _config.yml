@@ -10,21 +10,10 @@ picture: assets/images/picture.jpg
 url: http://koppl.in/violet
 # your url: http://USERNAME.github.io
 
-markdown: kramdown
-highlighter: rouge
-
 # if you don't have any of social below, comment the line
 facebook: myfacebook
 twitter: mytwitter
 github: mygithub
 email: me@jane.doe
-
-sass:
-  sass_dir: _sass
-  style: :compressed
-
-gems:
-  - jekyll-seo-tag
-  - jekyll-sitemap
 
 exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh]
