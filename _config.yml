@@ -19,4 +19,4 @@ email: me@jane.doe
 gems:
   - jekyll-seo-tag
 
-exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh]
+exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]
