@@ -40,7 +40,7 @@
 3. Edit `_config.yml` with your data.
 4. `bundle install`
 5. `bundle exec jekyll serve`
-6. open in your browser: `http://localhost:3000`
+6. open in your browser: `http://localhost:4000`
 
 ## Settings
 
