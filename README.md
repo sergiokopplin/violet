@@ -59,7 +59,7 @@ and lot of other options.
 You can test your app with:
 
 ```bash
-bundle exec htmlproof ./_site
+bundle exec htmlproofer ./_site
 ````
 
 ## Donate
