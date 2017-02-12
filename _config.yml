@@ -27,4 +27,4 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh, tasks]
+exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh]
