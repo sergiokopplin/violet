@@ -1,5 +1,5 @@
 # main text of home
-name: Jane Doe
+name: Shuhua Li（李淑华）
 bio: A Girl who travels the world eating noodles
 
 # twitter summary info
@@ -11,10 +11,10 @@ url: https://sue142857.github.io/test.github.io
 # your url: http://USERNAME.github.io
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+# twitter: mytwitter
 github: mygithub
-email: me@jane.doe
+email: sue142857@gmail.com
 
 gems:
   - jekyll-seo-tag
