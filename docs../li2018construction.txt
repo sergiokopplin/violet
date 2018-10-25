@@ -1,5 +1,9 @@
-@article{li2018construction,
-  title={Construction and Fabrication of Reversible Shape Transforms},
-  author={LI, SHUHUA and MAHDAVI-AMIRI, ALI and HU, RUIZHEN and ZOU, CHANGQING and VAN KAICK, OLIVER and LIU, XIUPING and HUANG, HUI and ZHANG, HAO},
-  year={2018}
+@article {li_siga18,
+  author = {Shuhua Li and Ali Mahdavi-Amiri and Ruizhen Hu and Han Liu and Changqing Zou and Oliver van Kaick and Xiuping Liu and Hui Huang and Hao Zhang},
+  title = {Construction and Fabrication of Reversible Shape Transforms},
+  journal = {ACM Transactions on Graphics},
+  volume = {37},
+  number = {6},
+  pages = {},
+  year = {2018}
 }
