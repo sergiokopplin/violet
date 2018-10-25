@@ -1,0 +1,9 @@
+@article{liu2015properly,
+  title={Properly constrained orthonormal functional maps for intrinsic symmetries},
+  author={Liu, Xiuping and Li, Shuhua and Liu, Risheng and Wang, Jun and Wang, Hui and Cao, Junjie},
+  journal={Computers \& Graphics},
+  volume={46},
+  pages={198--208},
+  year={2015},
+  publisher={Elsevier}
+}
