@@ -3,17 +3,17 @@ name: Shuhua Li
 bio: A Girl who travels the world eating noodles
 
 # twitter summary info
-description: A blog about technology and stuff related
+# description: A blog about technology and stuff related
 
 picture: assets/images/sue.jpg
 
-url: https://sue142857.github.io/test.github.io
+url: https://sue142857.github.io/shuhuali.github.io
 # your url: http://USERNAME.github.io
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 # twitter: mytwitter
-github: mygithub
+github: https://github.com/sue142857
 email: sue142857@gmail.com
 
 gems:
