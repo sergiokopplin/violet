@@ -1,0 +1,9 @@
+@article{tao2015mesh,
+  title={Mesh saliency via ranking unsalient patches in a descriptor space},
+  author={Tao, Pingping and Cao, Junjie and Li, Shuhua and Liu, Xiuping and Liu, Ligang},
+  journal={Computers \& Graphics},
+  volume={46},
+  pages={264--274},
+  year={2015},
+  publisher={Elsevier}
+}
